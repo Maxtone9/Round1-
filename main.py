@@ -12,7 +12,7 @@ class main:
         else:
             l.append(p)
             l.sort()
-            print(p,"the resulting index is:::",l.index(p),"as that's the only place to insert",p,"which satisfy the arrays condition ")
+            print("The resulting index is:::",l.index(p),"as that's the only place to insert",p,"which satisfy the arrays condition ")
             print("your final array is:")
             print(l)
             
